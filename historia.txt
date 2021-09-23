@@ -1,1 +1,2 @@
-Hi, my name is Sandra and this is a first step from my course Git&Github
+Hi, my name is Sandra and this is a first step from my course Git & Github.
+// This is a new line
