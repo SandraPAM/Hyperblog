@@ -1,4 +1,4 @@
 Hi, my name is Sandra and this is a first step from my course Git & Github.
 // This is a new line
 
-Aquì hablaremos de su historia.
+Aquì hablaremos de su historia. Y algo más.
