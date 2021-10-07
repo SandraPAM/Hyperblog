@@ -45,6 +45,10 @@ body{
     background: white;
 }
 
+#post #sunset {
+    width: 100%;
+}
+
 #footer {
     background: #777;
     color: white;
