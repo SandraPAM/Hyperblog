@@ -6,3 +6,5 @@ Ajustes para Historia.txt
 Master 1
 
 Master 2
+
+Master n
